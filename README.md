@@ -1,7 +1,7 @@
-# Edu Account creator
+# Edu Account creator #Edited by xliquid to fit chrome
 
 ## How to use?
-1. Install Firefox (https://www.mozilla.org/en-US/firefox/new/)
+1. Install Chrome 
 2. Install Python and pip (https://docs.python-guide.org/starting/installation/#installation-guides and https://pip.pypa.io/en/stable/installing/#upgrading-pip)
 3. Install selenium
    ```bash
@@ -13,6 +13,8 @@
    or py "Edu Bot.py"
    or python3 "Edu Bot.py"
    ```
+   
+
 
 ## Why should i need it?
 
